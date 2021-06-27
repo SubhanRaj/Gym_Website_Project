@@ -1,0 +1,32 @@
+/* CSS Reset */
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(/img/bg.jpg);
+    
+}
+.header{
+    color: white;
+}
+
+.left{
+    border: 2px solid red;
+    display: inline-block;
+     position: absolute;
+     left: 34px;
+     top: 18px;
+}
+
+.mid{
+    display: block;
+    width: 33%;
+    margin: 18px auto;
+    border: 2px solid green;
+}
+
+.right{
+    border: 2px solid blue;
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 18px;
