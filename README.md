@@ -26,3 +26,17 @@ A Simple One page website for a gym, that can be used as landing page
 ## Screenshot
 
 ![Screenshot from 2021-06-28 22-59-02](https://user-images.githubusercontent.com/46089881/123678947-94389f00-d864-11eb-8088-ba93a7e39dca.png)
+
+
+## Demo
+
+[Live Website](https://subhanraj.github.io/Gym_Website_Project/)
+
+
+## Authors
+
+- [@SubhanRaj](https://www.github.com/SubhanRaj)
+
+  
+
+  
