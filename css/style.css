@@ -1,14 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap');
 
 /* CSS Reset */
-body {
-    margin: 0px;
-    padding: 0px;
-    background: url(img/bg.jpg);
-    background-repeat: no-repeat;
-    font-family: 'Baloo Bhai 2', cursive;
 
-}
 
 .header {
     color: white;
