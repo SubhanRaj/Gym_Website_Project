@@ -26,7 +26,7 @@ A Simple One page website for a gym, that can be used as landing page
 
 ## Screenshot
 
-![Screenshot from 2021-06-28 22-59-02](https://user-images.githubusercontent.com/46089881/123678947-94389f00-d864-11eb-8088-ba93a7e39dca.png)
+![Screenshot from 2021-06-29 08-34-07](https://user-images.githubusercontent.com/46089881/123730939-d7baf980-d8b4-11eb-9206-80916a392401.png)
 
 
 ## Demo
