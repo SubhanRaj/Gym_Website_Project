@@ -1,6 +1,7 @@
 ![](https://img.shields.io/github/issues/SubhanRaj/Gym_Website_Project)
 ![](https://img.shields.io/github/license/SubhanRaj/Gym_Website_Project)
 ![](https://img.shields.io/github/stars/SubhanRaj/Gym_Website_Project)
+![](https://img.shields.io/github/forks/SubhanRaj/Gym_Website_Project)
 
 
 # Gym Website Project
