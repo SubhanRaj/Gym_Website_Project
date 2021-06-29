@@ -130,3 +130,15 @@ h2 {
     margin: 25px auto;
 
 }
+
+.container2 {
+    width: 150px;
+    display: block;
+    position: fixed;
+    right: 5px;
+    padding: 10px;
+    top: 80%;
+    margin: 10px auto;
+    /* border: 2px solid white; */
+    text-align: center;
+}
